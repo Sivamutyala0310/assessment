@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17916" started-at="2019-11-04T13:10:51Z" finished-at="2019-11-04T13:11:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17916" started-at="2019-11-04T13:10:51Z" finished-at="2019-11-04T13:11:09Z">
+      <class name="com.atmecs.Assesement.testscripts.AssesementTestcase">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.Assesement.testscripts.AssesementTestcase@67784306]" name="initializeBrowser" is-config="true" duration-ms="14583" started-at="2019-11-04T13:10:51Z" finished-at="2019-11-04T13:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.atmecs.Assesement.testscripts.AssesementTestcase@67784306]" name="testcase1" duration-ms="3301" started-at="2019-11-04T13:11:06Z" finished-at="2019-11-04T13:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.atmecs.Assesement.testscripts.AssesementTestcase@67784306]" name="quitDriver" is-config="true" duration-ms="1020" started-at="2019-11-04T13:11:09Z" finished-at="2019-11-04T13:11:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.atmecs.Assesement.testscripts.AssesementTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
